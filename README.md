@@ -94,8 +94,6 @@ The studio I co-founded. Websites, apps and custom software in Mauritius.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cosmic0-0/Cosmic0-0/output/gravity.svg" width="100%" alt="My contribution graph falling under gravity" />
-
 <img src="https://streak-stats.demolab.com?user=Cosmic0-0&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=FFFFFF" alt="GitHub streak" />
 
 </div>
